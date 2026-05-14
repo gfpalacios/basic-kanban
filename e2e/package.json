@@ -1,0 +1,13 @@
+{
+  "name": "kanban-e2e",
+  "version": "1.0.0",
+  "description": "E2E tests for Kanban board",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.1",
+    "typescript": "^5.3.3"
+  }
+}
